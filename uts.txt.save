@@ -1,0 +1,35 @@
+1.  Framework dalam pengembangan aplikasi dapat diibaratkan sebagai kerangka atau
+    struktur dasar yang menyediakan aturan, konsep, dan alat-alat yang diperlukan untuk
+    membangun suatu aplikasi. Ini adalah fondasi yang telah dibuat sebelumnya, memungkinkan
+    pengembang untuk fokus pada logika aplikasi daripada menghabiskan waktu untuk membuat
+    struktur dasar.
+    Sama seperti ketika membangun rumah, seorang arsitek akan menggunakan kerangka atau struktur dasar untuk memandu proses konstruksi. Framework dalam pengembangan aplikasi menyediakan pola kerja yang telah diuji dan terbukti efektif dalam menangani tugas-tugas umum seperti manajemen database, routing, dan interaksi dengan server.
+    Keuntungan menggunakan framework meliputi:
+        1. Efisiensi Pengembangan: Framework menyediakan alat dan fungsi bawaan, mempercepat proses pengembangan.
+        2. Konsistensi: Framework memberikan aturan dan konvensi, menjadikan struktur kode lebih konsisten di seluruh aplikasi.
+        3. Keamanan: Banyak framework telah dilengkapi dengan fitur keamanan bawaan untuk melindungi aplikasi dari potensi ancaman keamanan.
+    Dengan menggunakan framework, pengembang dapat fokus pada fitur dan logika khusus dari aplikasi tanpa harus memikirkan kembali struktur dasar setiap kali mereka memulai proyek baru. Ini membuat pengembangan aplikasi lebih terstruktur, efisien, dan dapat diandalkan.
+
+2.  * Apotek
+    * Anggota : Naser Setiawan (22416255201026) jobdesk "
+              : Muhamad Syahrul Katamso (22416255201064) jobdesk "Database"
+              : Iqbal Sabith Firdaus (224162552111) jobdesk "Do
+
+    * Berdasarkan hasil wawancara dengan petugas apotek beberapa permasalahan utama yang muncul adalah:
+        1. Manajemen Stok Manual:
+            ◦ Permasalahan: Kesulitan dalam melacak stok obat secara real-time dan rentan terhadap keterlambatan atau kesalahan pencatatan stok.
+            ◦ Hipotesa Solusi: Pengembangan aplikasi dapat memungkinkan manajemen stok secara otomatis, memberikan notifikasi jika stok hampir habis, dan memudahkan pembaruan inventaris.
+        2. Keterbatasan Informasi Obat dan Resep Dokter:
+            ◦ Permasalahan: Kesulitan dalam memberikan informasi obat dengan cepat dan akurat kepada pasien. Sistem resep dokter yang masih manual meningkatkan risiko kesalahan.
+            ◦ Hipotesa Solusi: Aplikasi dapat menyediakan database obat yang lengkap dan terupdate, memungkinkan petugas apotek memberikan informasi lebih cepat. Integrasi dengan resep dokter dapat meningkatkan akurasi dan efisiensi.
+        3. Pencatatan Transaksi dan Analisis Penjualan:
+            ◦ Permasalahan: Proses pencatatan transaksi penjualan masih dilakukan secara manual, sulit untuk menganalisis data penjualan.
+            ◦ Hipotesa Solusi: Aplikasi dapat menyediakan fitur pencatatan transaksi secara otomatis, serta laporan analisis penjualan untuk membantu dalam perencanaan stok dan strategi penjualan.
+        4. Keterbatasan Penggunaan Sistem Komputer:
+            ◦ Permasalahan: Kurangnya pengalaman dalam menggunakan sistem komputer membuat petugas apotek khawatir tentang kompleksitas dan kesulitan penggunaan aplikasi.
+            ◦ Hipotesa Solusi: Desain antarmuka pengguna yang sederhana dan pelatihan yang mudah dipahami akan membantu mengatasi hambatan ini. Dukungan teknis yang baik juga penting setelah implementasi.
+        5. Pelacakan Tanggal Kadaluarsa:
+            ◦ Permasalahan: Kurangnya sistem otomatis untuk melacak tanggal kadaluarsa obat.
+            ◦ Hipotesa Solusi: Aplikasi dapat menyertakan fitur pelacakan tanggal kadaluarsa otomatis, memberikan peringatan kepada petugas apotek jika obat mendekati tanggal kadaluarsa.
+    Dengan mengintegrasikan solusi-solusi ini ke dalam aplikasi apotek berbasis web, diharapkan dapat meningkatkan efisiensi operasional, meningkatkan akurasi data, dan memberikan pelayanan yang lebih baik kepada pasien. Solusi-solusi ini juga diarahkan untuk mempermudah adaptasi petugas apotek yang belum terbiasa dengan teknologi komputer.
+
